@@ -518,6 +518,10 @@ body {
 /* Responsividade =============================== */
 
 @media only screen and (max-width: 900px) {
+  nav {
+    margin: 0;
+  }
+  
   .mobile-menu {
     background: #0d0d0d;
     position: fixed;
@@ -641,6 +645,10 @@ body {
 }
 
 @media only screen and (max-width: 575px) {
+  nav {
+    margin: 0;
+  }
+  
   .mobile-menu {
     background: #0d0d0d;
     position: fixed;
@@ -763,6 +771,10 @@ body {
 }
 
 @media only screen and (max-width: 425px) {
+  nav {
+    margin: 0;
+  }
+  
   .mobile-menu {
     background: #0d0d0d;
     position: fixed;
@@ -891,7 +903,9 @@ body {
 
 @media only screen and (max-width: 320px) {
   /* home =========================== */
-
+  nav {
+    margin: 0;
+  }
   .mobile-menu {
     background: #0d0d0d;
     position: fixed;
