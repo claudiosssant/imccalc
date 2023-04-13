@@ -32,7 +32,9 @@ form h1 {
 }
 form input {
     border-bottom: 2px solid #3e3e3e;
-    background: #3e3e3e;
+    border-radius: 8px;
+    background: #f2f2f2;
+    font-family: 'Barlow Condensed', sans-serif;;
     
 }
 
